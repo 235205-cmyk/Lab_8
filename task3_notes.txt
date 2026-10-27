@@ -1,0 +1,13 @@
+Task 3 Notes — Power BI Dashboard
+
+1. What changed when the relationship direction was Both?
+   With Single direction, all four customers were displayed. With Both direction and Laptop selected, only Ali Khan was displayed.
+
+2. Which customer has no orders?
+   Hina has no orders.
+
+3. Which product was never sold?
+   Monitor was never sold.
+
+4. Why does Computers Sales show 900 on the Accessories row?
+   CALCULATE replaces the existing Category filter with the Computers filter, so it shows 900 even on the Accessories row.
